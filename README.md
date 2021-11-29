@@ -1,8 +1,11 @@
-# Site_bot
+# Aritmētiska spēle
 # Projekta nosaukums
 - Site_bot
 ## Apraksts
-- Tas ir saita bots, kurš pēc jūsu jautajumiem, var jums palīdzet vai parvēst klientu uz specialistu kurš var palīdzet ar klienta jautajumu.
+- Šī spēle satur aritmētiskas pamatproblēmas
+- Katra pareiza atbilde tiks pielikta pie 1 Punkta
+- Pilni jautājumi būs
+- Uzvarai, jums ir vajadzīgi 3 vai vairāk pareizu atbildes
 ## Galvenās funkcijas
 	- Ievadīt tekstu
 	- Apstrādāt datus
